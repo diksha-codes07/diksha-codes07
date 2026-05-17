@@ -1,4 +1,9 @@
-## Hi there 👋
+# Diksha Shukla 🌸
+
+💻 Tech Enthusiast  
+🎓 CSE Student  
+🌱 Learning • Building • Growing  
+🚀 Exploring Open Source and Development
 
 <!--
 **diksha-codes07/diksha-codes07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
